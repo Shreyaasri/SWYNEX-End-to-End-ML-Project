@@ -60,7 +60,13 @@ The current test run produced these results:
 - RMSE: 2.01
 - R-squared: 0.804
 
-Results may vary if the dataset, model settings, or train/test split changes.
 
 ## Note
 The model uses earlier grades (`G1` and `G2`) along with other student information to predict the final mathematics grade (`G3`). It is an educational demonstration and should not be used to make high-stakes decisions about students.
+
+## Author
+
+**Shreya Kumari**
+
+Machine Learning Project — SWYNEX Technologies
+
